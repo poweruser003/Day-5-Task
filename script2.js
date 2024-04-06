@@ -2,7 +2,6 @@
 
 //Iteration Using for loop:
 
-
 for(var i=0;i<myResume.length;i++){
     console.log(myResume[i])
    }
