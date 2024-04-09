@@ -1,4 +1,4 @@
-var myResume= [{
+var myResume= {
     "Name": "Manasa M",
     "Mobile_Number" : "944XXXXXX",
     "Email": "manasa.mXXXXX@gmail.com" ,
@@ -9,4 +9,4 @@ var myResume= [{
     "Programming": "Python",
     "Certifications": "AWS Cloud Certified"
       
-}]
+}
